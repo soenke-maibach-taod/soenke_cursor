@@ -1,0 +1,16 @@
+This project is a support project for my Obsidian notes.
+
+Obsidian is a powerful note-taking application that stores notes as local Markdown files on your device. Its key features include:
+Core Functionality
+Local Storage: All notes are stored as plain text files, ensuring data ownership and accessibility
+Bidirectional Linking: Creates connections between notes, allowing users to build a network of knowledge and visualize relationships through a graph view
+The linking works by putting the title of an article (a markdown file) into double square brackets like [[title]]
+Markdown Support: Uses Markdown formatting for text editing with real-time rendering
+
+Notable Features
+Knowledge Graph: Visualizes connections between notes, helping users discover patterns and relationships in their knowledge base
+
+
+Technical Aspects
+File Format: Uses standard Markdown (.md) files, ensuring compatibility with other applications
+
