@@ -7,5 +7,6 @@ Benedikts Optionen:
 Andreas:
 - warum nicht früher? weil erst ganz neu entwickelt
 Meine Idee:
-- Montag Call mit Ferdinand, mal droppen
+- Montag Call mit Ferdinand, mal droppen (nur Idee, nicht dafür entschieden)
+Isa hat Call aufgesetzt
 
