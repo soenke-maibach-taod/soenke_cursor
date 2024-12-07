@@ -1,4 +1,4 @@
-Meine Eindrücke nach meinen GEsprächen zu AUtomation Potential im Engineering
+Meine Eindrücke nach meinen Gesprächen zu Automation Potential im Engineering
 Gespräche:
 [[Tempton Automation Potential]]
 [[Lekkerland]]
