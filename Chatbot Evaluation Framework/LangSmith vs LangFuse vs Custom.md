@@ -1,0 +1,2 @@
+- LangChain has easy integration with (Azure) OpenAI
+- LangFuse too

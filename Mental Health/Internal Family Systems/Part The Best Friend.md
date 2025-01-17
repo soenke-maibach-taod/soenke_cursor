@@ -5,7 +5,7 @@ This is the perplexity summary of my work with the best friend protector part.
 The "best friend" part in the provided text appears to be a protector part with a strong focus on avoiding rejection, conflict, and awkwardness in social situations. Below is a detailed summary of its characteristics and dynamics:
 
 ### **Appearance and Behavior**
-- **Looks**: Described as unkempt, with ugly print clothing and overdue for a haircut, reflecting a sense of insecurity or lack of self-care.
+- **Looks**: Scrawny, young dude. Kinda square face. 
 - **Body Sensations**: Creates pressure in the chest, signaling a physical manifestation of its protective role.
 - **Speech**: Says phrases like "happy wife, happy life," "don't do it," "that's weird," and "it's too risky," emphasizing its focus on preventing perceived risks or discomfort.
 - **Actions**: Encourages keeping needs and thoughts to oneself, avoiding confrontation, and maintaining the status quo even when it’s not enjoyable.
